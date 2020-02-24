@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24db8c55-b831-438b-bec2-d95559f4faa9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YEiSl6QEbLGXCD83M0K2zXiF1Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Cylinder." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24db8c55-b831-438b-bec2-d95559f4faa9" name="Default Changelist" comment="" />
+      <created>1582514155541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582514155541</updated>
+      <workItem from="1582514156762" duration="815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="763" height="207" key="GridCell.Tab.0.bottom" timestamp="1582515858833">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="763" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1582515858833" />
+    <state width="763" height="207" key="GridCell.Tab.0.center" timestamp="1582515858832">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="763" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1582515858832" />
+    <state width="763" height="207" key="GridCell.Tab.0.left" timestamp="1582515858831">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="763" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1582515858831" />
+    <state width="763" height="207" key="GridCell.Tab.0.right" timestamp="1582515858832">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="763" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1582515858832" />
+    <state x="834" y="352" key="ReplaceDuplicatesPrompt" timestamp="1582514555480">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="834" y="352" key="ReplaceDuplicatesPrompt/0.23.1440.806@0.23.1440.806" timestamp="1582514555480" />
+    <state x="778" y="187" width="542" height="482" key="extract.method.dialog" timestamp="1582514545902">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="778" y="187" width="542" height="482" key="extract.method.dialog/0.23.1440.806@0.23.1440.806" timestamp="1582514545902" />
+  </component>
+</project>
